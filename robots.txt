@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://parham-dehghan.github.io/ABOUT_ME/sitemap.xml
